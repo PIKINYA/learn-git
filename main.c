@@ -8,6 +8,9 @@ int main(void) {
     if (c == 5) {
     	printf("hehe EEEEEEEEE");
     }
+    if (c == 0) {
+        	printf("oh no zerooooo");
+    }
 
     printf("symbol code: %d\n", (unsigned char)c);
 
