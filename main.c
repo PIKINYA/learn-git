@@ -9,7 +9,7 @@ int main(void) {
     	printf("hehe EEEEEEEEE");
     }
 
-    printf("Код символа: %d\n", (unsigned char)c);
+    printf("symbol code: %d\n", (unsigned char)c);
 
     return 0;
 }
