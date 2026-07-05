@@ -5,6 +5,9 @@ int main(void) {
 
     printf("Введите символ: ");
     scanf("%c", &c);
+    if (c == 5) {
+    	printf("hehe EEEEEEEEE");
+    }
 
     printf("Код символа: %d\n", (unsigned char)c);
 
